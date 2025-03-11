@@ -1,0 +1,26 @@
+{
+  "urls": [
+    "ch14.mp3",
+    "ch14.ogg",
+    "ch14.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "Bonus": [
+      1050,
+      3000
+    ],
+    "BonusTransition": [
+      4100,
+      3800
+    ],
+    "CashWin": [
+      8150,
+      2963.832199546486
+    ]
+  }
+}

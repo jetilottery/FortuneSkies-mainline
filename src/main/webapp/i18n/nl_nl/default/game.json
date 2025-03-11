@@ -1,0 +1,104 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% tot {@maxRTP}%",
+        "paybackTitle": "Verwachte uitbetalingspercentage",
+        "paybackBody": "Voor dit spel is het theoretisch verwachte uitbetalingspercentage op lange termijn {RTP}.",
+        "overallChances": "Er is een totale kans van 1 op {odds} om bij elk spel een prijs te winnen.",
+        "prizeDivision": "Prijs afdeling",
+        "prizeRemaining": "Geschatte resterende prijzen",
+        "oddsPerPlay": "Kansen per spel",
+        "subheading": "Inzet: {ticketCost}",
+        "prizeLevel": "Prijsniveau",
+        "description": "Beschrijving",
+        "prizeValue": "Prijswaarde",
+        "descriptionText1": "Prijs matchwinst",
+        "descriptionText2": "Radbonuswinst"
+    },
+    "title": "Geluksknaller",
+    "MenuCommand":
+    {
+        "price": "Prijs",
+        "stake": "Inzet",
+        "howToPlay": "Help",
+        "paytable": "Uitbetalingstabel",
+        "close": "Sluiten",
+        "audio":
+        {
+            "sound": "Geluid",
+            "on": "Aan",
+            "off": "Uit"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Fout: ",
+        "genericErrorText": "Er is een interne fout opgetreden. SLUIT het spel en start het opnieuw op."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "INZET",
+        "ticketSelect_ticketCost": "INZET",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": ""
+        },
+        "footer_win":
+        {
+            "BUY": "WINST",
+            "TRY": "WINST"
+        },
+
+        "button_buy":
+        {
+            "BUY": "SPELEN",
+            "TRY": "PROBEREN"
+        },
+        "button_try": "PROBEREN",
+        "button_continue": "DOORGAAN",
+        "button_retry": "OPNIEUW PROBEREN",
+        "button_moveToMoney": "SPELEN MET ECHT GELD",
+        "button_autoPlay": "ONTHUL ALLES",
+        "button_stop": "STOPPEN",
+        "button_playAgain":
+        {
+            "BUY": "OPNIEUW SPELEN",
+            "TRY": "OPNIEUW PROBEREN"
+        },
+        "button_tryAgain": "OPNIEUW PROBEREN",
+        "button_ok": "OK",
+        "button_exit": "AFSLUITEN",
+
+        "error_button_exit": "AFSLUITEN",
+        "error_title": "FOUT",
+
+        "message_nonWin": "VOLGENDE KEER\nBETER",
+        "message_win":
+        {
+            "BUY": "GEFELICITEERD\nMET JE PRIJS VAN", 
+            "TRY": "DANK VOOR HET SPELEN.\nJE HAD DE KANS OP"
+        },
+
+        "pickerText": "Kies een vuurpijl om\neen totale winstvermenigvuldiger te onthullen",
+
+        "howToPlay": "",
+        "howToPlayTitle": "Speluitleg",
+        "page1": "Selecteer 8 van de 12 vuurpijlen om geldbedragen te onthullen.\nVind drie dezelfde bedragen om die prijs te winnen.\nOnthul een Bonus-symbool om deel te nemen aan een bonusspel.",
+        "page2": "Druk op DRAAIEN om het rad te starten.\nAls je terechtkomt op een prijssegment, win je die prijs.\nAls je op een pijl terechtkomt, ga je naar het binnenste rad.\nAls je op INNEN terechtkomt, is de bonus voorbij.",
+        "page3": "Kies een van de drie vuurpijlen om een vermenigvuldiger te onthullen.\nDe vermenigvuldiger wordt toegepast op alle vorige winsten.",
+
+        "winUpTo": "WIN TOT",
+        "bonus": "BONUS",
+        "bonusWin": "BONUSWINST",
+        "wheelCollect": "INNEN",
+
+        "baseGameInfo": "Match drie bedragen\nom te winnen!",
+
+        "yourNumbers": "JOUW NUMMERS",
+        "luckyNumbers": "GELUKSNUMBERS"
+    }
+}

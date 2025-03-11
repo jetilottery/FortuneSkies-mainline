@@ -1,0 +1,871 @@
+
+totalWinAndTransitions.jpg
+size: 2044,1975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/rockets_00
+  rotate: true
+  xy: 1103, 1853
+  size: 120, 237
+  orig: 252, 358
+  offset: 63, 54
+  index: -1
+FX/rockets_14
+  rotate: true
+  xy: 1103, 1853
+  size: 120, 237
+  orig: 252, 358
+  offset: 63, 54
+  index: -1
+FX/rockets_01
+  rotate: true
+  xy: 1342, 1848
+  size: 125, 242
+  orig: 252, 358
+  offset: 61, 51
+  index: -1
+FX/rockets_15
+  rotate: true
+  xy: 1342, 1848
+  size: 125, 242
+  orig: 252, 358
+  offset: 61, 51
+  index: -1
+FX/rockets_02
+  rotate: true
+  xy: 1586, 1844
+  size: 129, 246
+  orig: 252, 358
+  offset: 59, 49
+  index: -1
+FX/rockets_03
+  rotate: true
+  xy: 250, 1729
+  size: 135, 251
+  orig: 252, 358
+  offset: 55, 47
+  index: -1
+FX/rockets_04
+  rotate: false
+  xy: 1834, 1717
+  size: 139, 256
+  orig: 252, 358
+  offset: 53, 44
+  index: -1
+FX/rockets_05
+  rotate: true
+  xy: 1470, 1569
+  size: 142, 260
+  orig: 252, 358
+  offset: 52, 42
+  index: -1
+FX/rockets_06
+  rotate: true
+  xy: 1732, 1423
+  size: 149, 263
+  orig: 252, 358
+  offset: 47, 39
+  index: -1
+FX/rockets_07
+  rotate: true
+  xy: 1413, 1264
+  size: 152, 267
+  orig: 252, 358
+  offset: 45, 37
+  index: -1
+FX/rockets_08
+  rotate: true
+  xy: 1601, 951
+  size: 158, 270
+  orig: 252, 358
+  offset: 42, 34
+  index: -1
+FX/rockets_09
+  rotate: true
+  xy: 1426, 787
+  size: 162, 274
+  orig: 252, 358
+  offset: 39, 32
+  index: -1
+FX/rockets_10
+  rotate: false
+  xy: 1702, 675
+  size: 167, 274
+  orig: 252, 358
+  offset: 37, 29
+  index: -1
+FX/rockets_11
+  rotate: false
+  xy: 1871, 559
+  size: 171, 278
+  orig: 252, 358
+  offset: 35, 27
+  index: -1
+FX/rockets_12
+  rotate: false
+  xy: 1434, 503
+  size: 176, 282
+  orig: 252, 358
+  offset: 32, 24
+  index: -1
+FX/rockets_13
+  rotate: false
+  xy: 1612, 391
+  size: 178, 282
+  orig: 252, 358
+  offset: 31, 24
+  index: -1
+FX/rockets_16
+  rotate: true
+  xy: 2, 1742
+  size: 129, 246
+  orig: 252, 358
+  offset: 59, 49
+  index: -1
+FX/rockets_17
+  rotate: true
+  xy: 503, 1725
+  size: 135, 251
+  orig: 252, 358
+  offset: 55, 47
+  index: -1
+FX/rockets_18
+  rotate: true
+  xy: 756, 1717
+  size: 138, 256
+  orig: 252, 358
+  offset: 53, 44
+  index: -1
+FX/rockets_19
+  rotate: true
+  xy: 1744, 1574
+  size: 141, 259
+  orig: 252, 358
+  offset: 52, 42
+  index: -1
+FX/rockets_20
+  rotate: true
+  xy: 1436, 1418
+  size: 149, 263
+  orig: 252, 358
+  offset: 47, 39
+  index: -1
+FX/rockets_21
+  rotate: true
+  xy: 1701, 1270
+  size: 151, 266
+  orig: 252, 358
+  offset: 45, 37
+  index: -1
+FX/rockets_22
+  rotate: true
+  xy: 1682, 1111
+  size: 157, 268
+  orig: 252, 358
+  offset: 42, 35
+  index: -1
+FX/rockets_23
+  rotate: false
+  xy: 1873, 839
+  size: 160, 270
+  orig: 252, 358
+  offset: 40, 34
+  index: -1
+FX/rockets_24
+  rotate: false
+  xy: 1436, 993
+  size: 163, 269
+  orig: 252, 358
+  offset: 39, 32
+  index: -1
+FX/rockets_25
+  rotate: true
+  xy: 2, 1877
+  size: 96, 205
+  orig: 252, 358
+  offset: 77, 65
+  index: -1
+FX/rockets_26
+  rotate: true
+  xy: 209, 1873
+  size: 100, 211
+  orig: 252, 358
+  offset: 75, 63
+  index: -1
+FX/rockets_27
+  rotate: true
+  xy: 422, 1866
+  size: 107, 219
+  orig: 252, 358
+  offset: 71, 61
+  index: -1
+FX/rockets_28
+  rotate: true
+  xy: 643, 1862
+  size: 111, 225
+  orig: 252, 358
+  offset: 69, 58
+  index: -1
+FX/rockets_29
+  rotate: true
+  xy: 870, 1857
+  size: 116, 231
+  orig: 252, 358
+  offset: 66, 56
+  index: -1
+FX/sparks_level1_00
+  rotate: false
+  xy: 2, 1315
+  size: 732, 132
+  orig: 1440, 266
+  offset: 393, 6
+  index: -1
+FX/sparks_level1_01
+  rotate: false
+  xy: 2, 304
+  size: 736, 138
+  orig: 1440, 266
+  offset: 391, 6
+  index: -1
+FX/sparks_level1_02
+  rotate: false
+  xy: 681, 2
+  size: 740, 141
+  orig: 1440, 266
+  offset: 390, 6
+  index: -1
+FX/sparks_level1_05
+  rotate: false
+  xy: 752, 872
+  size: 672, 150
+  orig: 1440, 266
+  offset: 385, 6
+  index: -1
+FX/sparks_level1_06
+  rotate: false
+  xy: 757, 427
+  size: 674, 153
+  orig: 1440, 266
+  offset: 384, 6
+  index: -1
+FX/sparks_level1_07
+  rotate: false
+  xy: 2, 8
+  size: 677, 152
+  orig: 1440, 266
+  offset: 382, 6
+  index: -1
+FX/sparks_level1_09
+  rotate: false
+  xy: 2, 1453
+  size: 678, 139
+  orig: 1440, 266
+  offset: 380, 6
+  index: -1
+FX/sparks_level1_10
+  rotate: false
+  xy: 736, 1305
+  size: 675, 142
+  orig: 1440, 266
+  offset: 378, 6
+  index: -1
+FX/sparks_level1_11
+  rotate: false
+  xy: 731, 1158
+  size: 680, 145
+  orig: 1440, 266
+  offset: 377, 6
+  index: -1
+FX/sparks_level1_12
+  rotate: false
+  xy: 2, 1031
+  size: 685, 148
+  orig: 1440, 266
+  offset: 375, 6
+  index: -1
+FX/sparks_level1_13
+  rotate: false
+  xy: 735, 719
+  size: 688, 151
+  orig: 1440, 266
+  offset: 374, 6
+  index: -1
+FX/sparks_level1_14
+  rotate: false
+  xy: 2, 889
+  size: 748, 133
+  orig: 1440, 266
+  offset: 373, 6
+  index: -1
+FX/sparks_level1_15
+  rotate: false
+  xy: 2, 444
+  size: 753, 136
+  orig: 1440, 266
+  offset: 371, 6
+  index: -1
+FX/sparks_level1_16
+  rotate: false
+  xy: 740, 286
+  size: 751, 139
+  orig: 1440, 266
+  offset: 376, 6
+  index: -1
+FX/sparks_level1_20
+  rotate: false
+  xy: 2, 598
+  size: 672, 151
+  orig: 1440, 266
+  offset: 385, 6
+  index: -1
+FX/sparks_level1_27
+  rotate: false
+  xy: 726, 1581
+  size: 742, 130
+  orig: 1440, 266
+  offset: 376, 6
+  index: -1
+FX/sparks_level1_28
+  rotate: false
+  xy: 689, 1024
+  size: 745, 132
+  orig: 1440, 266
+  offset: 375, 6
+  index: -1
+FX/sparks_level1_29
+  rotate: false
+  xy: 1014, 1713
+  size: 728, 129
+  orig: 1440, 266
+  offset: 394, 6
+  index: -1
+FX/sparks_level2_00
+  rotate: false
+  xy: 2, 1181
+  size: 727, 132
+  orig: 1440, 266
+  offset: 338, 6
+  index: -1
+FX/sparks_level2_01
+  rotate: false
+  xy: 2, 751
+  size: 731, 136
+  orig: 1440, 266
+  offset: 335, 6
+  index: -1
+FX/sparks_level2_02
+  rotate: false
+  xy: 2, 162
+  size: 736, 140
+  orig: 1440, 266
+  offset: 332, 6
+  index: -1
+FX/sparks_level2_15
+  rotate: false
+  xy: 682, 1449
+  size: 752, 130
+  orig: 1440, 266
+  offset: 338, 6
+  index: -1
+FX/sparks_level2_16
+  rotate: false
+  xy: 676, 582
+  size: 756, 135
+  orig: 1440, 266
+  offset: 336, 6
+  index: -1
+FX/sparks_level2_17
+  rotate: false
+  xy: 740, 145
+  size: 762, 139
+  orig: 1440, 266
+  offset: 333, 6
+  index: -1
+FX/sparks_level2_29
+  rotate: false
+  xy: 2, 1594
+  size: 722, 129
+  orig: 1440, 266
+  offset: 340, 6
+  index: -1
+
+totalWinAndTransitions2.jpg
+size: 2038,1982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/sparks_level1_03
+  rotate: false
+  xy: 2, 1547
+  size: 745, 144
+  orig: 1440, 266
+  offset: 388, 6
+  index: -1
+FX/sparks_level1_04
+  rotate: false
+  xy: 764, 1398
+  size: 748, 147
+  orig: 1440, 266
+  offset: 387, 6
+  index: -1
+FX/sparks_level1_08
+  rotate: true
+  xy: 1722, 1302
+  size: 678, 154
+  orig: 1440, 266
+  offset: 381, 6
+  index: -1
+FX/sparks_level1_17
+  rotate: false
+  xy: 810, 1838
+  size: 755, 142
+  orig: 1440, 266
+  offset: 375, 6
+  index: -1
+FX/sparks_level1_18
+  rotate: false
+  xy: 2, 1400
+  size: 760, 145
+  orig: 1440, 266
+  offset: 373, 6
+  index: -1
+FX/sparks_level1_19
+  rotate: false
+  xy: 748, 1249
+  size: 763, 147
+  orig: 1440, 266
+  offset: 372, 6
+  index: -1
+FX/sparks_level1_21
+  rotate: true
+  xy: 1567, 1306
+  size: 674, 153
+  orig: 1440, 266
+  offset: 384, 6
+  index: -1
+FX/sparks_level1_22
+  rotate: true
+  xy: 1878, 1258
+  size: 722, 158
+  orig: 1440, 266
+  offset: 382, 6
+  index: -1
+FX/sparks_level1_23
+  rotate: true
+  xy: 1672, 574
+  size: 726, 162
+  orig: 1440, 266
+  offset: 381, 6
+  index: -1
+FX/sparks_level1_24
+  rotate: true
+  xy: 1836, 526
+  size: 730, 166
+  orig: 1440, 266
+  offset: 380, 6
+  index: -1
+FX/sparks_level2_03
+  rotate: false
+  xy: 2, 1694
+  size: 740, 143
+  orig: 1440, 266
+  offset: 330, 6
+  index: -1
+FX/sparks_level2_04
+  rotate: false
+  xy: 2, 1251
+  size: 744, 147
+  orig: 1440, 266
+  offset: 328, 6
+  index: -1
+FX/sparks_level2_05
+  rotate: false
+  xy: 2, 947
+  size: 748, 151
+  orig: 1440, 266
+  offset: 325, 6
+  index: -1
+FX/sparks_level2_06
+  rotate: false
+  xy: 2, 482
+  size: 753, 154
+  orig: 1440, 266
+  offset: 322, 6
+  index: -1
+FX/sparks_level2_07
+  rotate: false
+  xy: 2, 164
+  size: 757, 158
+  orig: 1440, 266
+  offset: 319, 6
+  index: -1
+FX/sparks_level2_18
+  rotate: false
+  xy: 744, 1693
+  size: 767, 143
+  orig: 1440, 266
+  offset: 330, 6
+  index: -1
+FX/sparks_level2_19
+  rotate: false
+  xy: 2, 1100
+  size: 772, 147
+  orig: 1440, 266
+  offset: 328, 6
+  index: -1
+FX/sparks_level2_20
+  rotate: false
+  xy: 2, 794
+  size: 748, 151
+  orig: 1440, 266
+  offset: 325, 6
+  index: -1
+FX/sparks_level2_21
+  rotate: false
+  xy: 757, 482
+  size: 753, 154
+  orig: 1440, 266
+  offset: 322, 6
+  index: -1
+FX/sparks_level3_00
+  rotate: false
+  xy: 749, 1547
+  size: 811, 144
+  orig: 1440, 266
+  offset: 329, 6
+  index: -1
+FX/sparks_level3_01
+  rotate: false
+  xy: 776, 1099
+  size: 809, 148
+  orig: 1440, 266
+  offset: 335, 6
+  index: -1
+FX/sparks_level3_02
+  rotate: false
+  xy: 752, 793
+  size: 815, 152
+  orig: 1440, 266
+  offset: 332, 6
+  index: -1
+FX/sparks_level3_03
+  rotate: false
+  xy: 2, 324
+  size: 820, 156
+  orig: 1440, 266
+  offset: 330, 6
+  index: -1
+FX/sparks_level3_04
+  rotate: false
+  xy: 2, 2
+  size: 825, 160
+  orig: 1440, 266
+  offset: 328, 6
+  index: -1
+FX/sparks_level3_07
+  rotate: false
+  xy: 829, 2
+  size: 844, 160
+  orig: 1440, 266
+  offset: 319, 6
+  index: -1
+FX/sparks_level3_14
+  rotate: false
+  xy: 752, 947
+  size: 834, 150
+  orig: 1440, 266
+  offset: 301, 6
+  index: -1
+FX/sparks_level3_15
+  rotate: false
+  xy: 2, 638
+  size: 835, 153
+  orig: 1440, 266
+  offset: 304, 6
+  index: -1
+FX/sparks_level3_16
+  rotate: false
+  xy: 824, 323
+  size: 843, 157
+  orig: 1440, 266
+  offset: 300, 6
+  index: -1
+FX/sparks_level3_20
+  rotate: false
+  xy: 839, 638
+  size: 831, 153
+  orig: 1440, 266
+  offset: 325, 6
+  index: -1
+FX/sparks_level3_21
+  rotate: false
+  xy: 761, 164
+  size: 838, 157
+  orig: 1440, 266
+  offset: 322, 6
+  index: -1
+FX/sparks_level3_29
+  rotate: false
+  xy: 2, 1839
+  size: 806, 141
+  orig: 1440, 266
+  offset: 331, 6
+  index: -1
+
+totalWinAndTransitions3.jpg
+size: 2037,1896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/sparks_level1_25
+  rotate: true
+  xy: 1686, 1160
+  size: 734, 169
+  orig: 1440, 266
+  offset: 379, 6
+  index: -1
+FX/sparks_level1_26
+  rotate: true
+  xy: 1857, 1156
+  size: 738, 173
+  orig: 1440, 266
+  offset: 377, 6
+  index: -1
+FX/sparks_level2_08
+  rotate: false
+  xy: 853, 1732
+  size: 761, 162
+  orig: 1440, 266
+  offset: 316, 6
+  index: -1
+FX/sparks_level2_09
+  rotate: false
+  xy: 2, 1400
+  size: 764, 165
+  orig: 1440, 266
+  offset: 313, 6
+  index: -1
+FX/sparks_level2_10
+  rotate: false
+  xy: 2, 1060
+  size: 767, 169
+  orig: 1440, 266
+  offset: 310, 6
+  index: -1
+FX/sparks_level2_11
+  rotate: false
+  xy: 2, 541
+  size: 741, 173
+  orig: 1440, 266
+  offset: 338, 6
+  index: -1
+FX/sparks_level2_12
+  rotate: true
+  xy: 1678, 411
+  size: 747, 176
+  orig: 1440, 266
+  offset: 335, 6
+  index: -1
+FX/sparks_level2_22
+  rotate: false
+  xy: 2, 361
+  size: 802, 175
+  orig: 1440, 266
+  offset: 310, 6
+  index: -1
+FX/sparks_level2_23
+  rotate: false
+  xy: 852, 2
+  size: 810, 179
+  orig: 1440, 266
+  offset: 307, 6
+  index: -1
+FX/sparks_level2_25
+  rotate: false
+  xy: 2, 889
+  size: 823, 169
+  orig: 1440, 266
+  offset: 300, 6
+  index: -1
+FX/sparks_level2_26
+  rotate: false
+  xy: 807, 714
+  size: 774, 172
+  orig: 1440, 266
+  offset: 338, 6
+  index: -1
+FX/sparks_level2_27
+  rotate: false
+  xy: 2, 183
+  size: 757, 176
+  orig: 1440, 266
+  offset: 336, 6
+  index: -1
+FX/sparks_level2_28
+  rotate: true
+  xy: 1856, 405
+  size: 749, 179
+  orig: 1440, 266
+  offset: 333, 6
+  index: -1
+FX/sparks_level3_05
+  rotate: false
+  xy: 2, 1567
+  size: 831, 164
+  orig: 1440, 266
+  offset: 325, 6
+  index: -1
+FX/sparks_level3_06
+  rotate: false
+  xy: 2, 1231
+  size: 838, 167
+  orig: 1440, 266
+  offset: 322, 6
+  index: -1
+FX/sparks_level3_08
+  rotate: false
+  xy: 835, 1566
+  size: 849, 164
+  orig: 1440, 266
+  offset: 316, 6
+  index: -1
+FX/sparks_level3_09
+  rotate: false
+  xy: 842, 1230
+  size: 796, 168
+  orig: 1440, 266
+  offset: 313, 6
+  index: -1
+FX/sparks_level3_10
+  rotate: false
+  xy: 2, 716
+  size: 803, 171
+  orig: 1440, 266
+  offset: 309, 6
+  index: -1
+FX/sparks_level3_11
+  rotate: false
+  xy: 806, 361
+  size: 808, 175
+  orig: 1440, 266
+  offset: 307, 6
+  index: -1
+FX/sparks_level3_17
+  rotate: false
+  xy: 2, 1733
+  size: 849, 161
+  orig: 1440, 266
+  offset: 297, 6
+  index: -1
+FX/sparks_level3_18
+  rotate: false
+  xy: 768, 1400
+  size: 857, 164
+  orig: 1440, 266
+  offset: 293, 6
+  index: -1
+FX/sparks_level3_19
+  rotate: false
+  xy: 771, 1060
+  size: 863, 168
+  orig: 1440, 266
+  offset: 290, 6
+  index: -1
+FX/sparks_level3_22
+  rotate: false
+  xy: 761, 183
+  size: 853, 176
+  orig: 1440, 266
+  offset: 310, 6
+  index: -1
+FX/sparks_level3_24
+  rotate: false
+  xy: 827, 888
+  size: 849, 170
+  orig: 1440, 266
+  offset: 303, 6
+  index: -1
+FX/sparks_level3_25
+  rotate: false
+  xy: 745, 538
+  size: 856, 174
+  orig: 1440, 266
+  offset: 300, 6
+  index: -1
+FX/sparks_level3_26
+  rotate: false
+  xy: 2, 3
+  size: 848, 178
+  orig: 1440, 266
+  offset: 311, 6
+  index: -1
+
+totalWinAndTransitions4.jpg
+size: 1737,879
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/sparks_level2_13
+  rotate: false
+  xy: 925, 2
+  size: 752, 180
+  orig: 1440, 266
+  offset: 332, 6
+  index: -1
+FX/sparks_level2_14
+  rotate: false
+  xy: 925, 184
+  size: 757, 184
+  orig: 1440, 266
+  offset: 330, 6
+  index: -1
+FX/sparks_level2_24
+  rotate: true
+  xy: 555, 60
+  size: 817, 183
+  orig: 1440, 266
+  offset: 303, 6
+  index: -1
+FX/sparks_level3_12
+  rotate: false
+  xy: 925, 698
+  size: 810, 179
+  orig: 1440, 266
+  offset: 308, 6
+  index: -1
+FX/sparks_level3_13
+  rotate: true
+  xy: 740, 60
+  size: 817, 183
+  orig: 1440, 266
+  offset: 304, 6
+  index: -1
+FX/sparks_level3_23
+  rotate: true
+  xy: 2, 18
+  size: 859, 180
+  orig: 1440, 266
+  offset: 306, 6
+  index: -1
+FX/sparks_level3_27
+  rotate: true
+  xy: 184, 22
+  size: 855, 182
+  orig: 1440, 266
+  offset: 308, 6
+  index: -1
+FX/sparks_level3_28
+  rotate: true
+  xy: 368, 48
+  size: 829, 185
+  orig: 1440, 266
+  offset: 305, 6
+  index: -1
+FX/totalWin_Plaque_glow
+  rotate: false
+  xy: 925, 370
+  size: 781, 326
+  orig: 817, 326
+  offset: 13, 0
+  index: -1

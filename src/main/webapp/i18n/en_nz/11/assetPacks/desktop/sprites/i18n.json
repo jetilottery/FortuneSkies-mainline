@@ -1,0 +1,39 @@
+{"frames": {
+
+"landscapeLogo":
+{
+	"frame": {"x":1,"y":385,"w":386,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":122},
+	"sourceSize": {"w":386,"h":122},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"pickerBonusLogo":
+{
+	"frame": {"x":1,"y":1,"w":456,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":456,"h":190},
+	"sourceSize": {"w":456,"h":190},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelBonusLogo":
+{
+	"frame": {"x":1,"y":193,"w":422,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":422,"h":190},
+	"sourceSize": {"w":422,"h":190},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "i18n.png",
+	"format": "RGBA8888",
+	"size": {"w":458,"h":508},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9bdadfc530723577335d328e919b17f9:ff4625b9f54f97e045ede3b986cc025d:75f4e1c5501bdd47cd0852bfeaabcd82$"
+}
+}

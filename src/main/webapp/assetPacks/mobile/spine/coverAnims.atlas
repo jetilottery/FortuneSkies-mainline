@@ -1,0 +1,47 @@
+
+coverAnims.png
+size: 322,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buttons/button
+  rotate: false
+  xy: 2, 2
+  size: 134, 97
+  orig: 136, 99
+  offset: 1, 1
+  index: -1
+buttons/buttonIcon
+  rotate: false
+  xy: 274, 51
+  size: 46, 48
+  orig: 136, 99
+  offset: 43, 24
+  index: -1
+buttons/cornerButton
+  rotate: false
+  xy: 138, 2
+  size: 134, 97
+  orig: 136, 99
+  offset: 1, 1
+  index: -1
+
+coverAnims.jpg
+size: 346,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/CornerButton_shine
+  rotate: false
+  xy: 2, 2
+  size: 170, 122
+  orig: 500, 364
+  offset: 165, 121
+  index: -1
+FX/button_shine
+  rotate: false
+  xy: 174, 2
+  size: 170, 122
+  orig: 500, 364
+  offset: 165, 121
+  index: -1

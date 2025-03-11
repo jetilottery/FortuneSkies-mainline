@@ -1,0 +1,103 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prizes Remaining",
+        "oddsPerPlay": "Odds Per Play",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "description": "Description",
+        "prizeValue": "Prize Value",
+        "descriptionText1": "Prize Match Win",
+        "descriptionText2": "Wheel Bonus Win"
+    },
+    "title": "TEMPLATE",
+    "MenuCommand":
+    {
+        "price": "Price",
+        "stake": "Stake",
+        "howToPlay": "Help",
+        "paytable": "Paytable",
+        "close": "Close",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "TICKET COST",
+        "ticketSelect_ticketCost": "TICKET COST",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TRY "
+        },
+        "footer_win":
+        {
+            "BUY": "WIN",
+            "TRY": "DEMO WIN"
+        },
+
+        "button_buy":
+        {
+            "BUY": "BUY",
+            "TRY": "TRY"
+        },
+        "button_try": "TRY",
+        "button_continue": "CONTINUE",
+        "button_retry": "RETRY",
+        "button_moveToMoney": "MOVE TO MONEY",
+        "button_autoPlay": "REVEAL ALL",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "PLAY AGAIN",
+            "TRY": "TRY AGAIN"
+        },
+        "button_tryAgain": "TRY AGAIN",
+        "button_ok": "OK",
+        "button_exit": "EXIT",
+
+        "error_button_exit": "EXIT",
+        "error_title": "ERROR",
+
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+        "message_win":
+        {
+            "BUY": "TOTAL WIN",
+            "TRY": "TOTAL DEMO WIN"
+        },
+
+        "pickerText": "Pick a Firework to reveal\na total win multiplier",
+
+        "howToPlay": "",
+        "howToPlayTitle": "How to Play",
+        "page1": "Select 8 of 12 Fireworks to reveal cash amounts.\nMatch three amounts to win that prize.\nReveal a Bonus symbol to enter a bonus game.",
+        "page2": "Press SPIN to start the wheel.\nLand on a prize segment to win that prize.\nLand on an Arrow to advance to the inner wheel.\nLand on COLLECT to end the bonus.",
+        "page3": "Select one of three Fireworks to reveal a multiplier.\nThe multiplier is applied to all previous wins.",
+
+        "winUpTo": "WIN UP TO",
+        "bonus": "BONUS",
+        "bonusWin": "BONUS WIN",
+        "wheelCollect": "COLLECT",
+        "baseGameInfo": "Match three amounts\nto win!",
+
+        "yourNumbers": "YOUR NUMBERS",
+        "luckyNumbers": "LUCKY NUMBERS"
+    }
+}

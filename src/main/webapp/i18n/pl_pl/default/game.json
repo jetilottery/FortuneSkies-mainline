@@ -1,0 +1,103 @@
+﻿{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}.",
+        "subheading": "Opłata za los: {ticketCost}",
+        "prizeLevel": "Stopień wygranej",
+        "description": "Opis",
+        "prizeValue": "Wartość wygranej",
+        "descriptionText1": "Wygrana dopasowania nagrody",
+        "descriptionText2": "Wygrana bonusu koła",
+        "overallChances": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {odds}.",
+		"prizeDivision": "Stopień nagrody",
+		"prizeRemaining": "Pozostała przybliżona liczba nagród",
+		"oddsPerPlay": "Szansa na wygraną"
+    },
+    "title": "FAJERWERKI",
+    "MenuCommand":
+    {
+        "price": "Cena",
+        "stake": "Stawka",
+        "howToPlay": "Zasady gry",
+        "paytable": "Tabela wygranych",
+        "close": "Zamknij",
+        "audio":
+        {
+            "sound": "Dźwięk",
+            "on": "Wł.",
+            "off": "Wył."
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Błąd: ",
+        "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "OPŁATA ZA LOS",
+        "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA DEMO"
+        },
+
+        "button_buy":
+        {
+            "BUY": "PŁACĘ",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_continue": "KONTYNUUJ",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+        "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "GRAJ PONOWNIE",
+            "TRY": "SPRÓBUJ PONOWNIE"
+        },
+        "button_tryAgain": "SPRÓBUJ PONOWNIE",
+        "button_ok": "OK",
+        "button_exit": "WYJDŹ",
+
+        "error_button_exit": "WYJDŹ",
+        "error_title": "BŁĄD",
+
+        "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+        "message_win":
+        {
+            "BUY": "ŁĄCZNA WYGRANA",
+            "TRY": "ZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+        },
+
+        "pickerText": "Wybierz fajerwerk, aby odkryć\nmnożnik łącznej wygranej",
+
+        "howToPlay": "",
+        "howToPlayTitle": "Zasady gry",
+        "page1": "Wybierz 8 z 12 fajerwerków, aby odkryć kwoty gotówkowe.\nDopasuj trzy kwoty, aby wygrać daną nagrodę.\nOdkryj symbol bonusu, aby wejść do gry bonusowej.",
+        "page2": "Naciśnij przycisk OBRÓĆ, aby uruchomić koło.\nZatrzymaj się na polu nagrody, aby ją wygrać.\nJeśli zatrzymasz się na strzałce, przejdziesz do koła wewnętrznego.\nZatrzymanie na polu ZBIERZ kończy bonus.",
+        "page3": "Wybierz jeden z trzech fajerwerków, aby odkryć mnożnik.\nMnożnik jest stosowany do wszystkich wcześniejszych wygranych.",
+
+        "winUpTo": "WYGRAJ DO",
+        "bonus": "BONUS",
+        "bonusWin": "WYGRANA BONUSOWA",
+        "wheelCollect": "ZBIERZ",
+        "baseGameInfo": "Dopasuj trzy kwoty,\naby wygrać!",
+
+        "yourNumbers": "TWOJE LICZBY",
+        "luckyNumbers": "SZCZĘŚLIWE LICZBY"
+    }
+}

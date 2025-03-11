@@ -1,0 +1,30 @@
+{
+  "urls": [
+    "ch5.mp3",
+    "ch5.ogg",
+    "ch5.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "Bonus": [
+      1050,
+      3000
+    ],
+    "PickerExplosion_1": [
+      4100,
+      2909.2517006802723
+    ],
+    "PickerExplosion": [
+      7149.999999999999,
+      2909.2517006802714
+    ],
+    "SpinButtonPressed": [
+      10200,
+      6000
+    ]
+  }
+}

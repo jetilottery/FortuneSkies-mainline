@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch8.mp3",
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "PickerExplosion_3": [
+      1050,
+      2800
+    ],
+    "Reveal02": [
+      4100,
+      1258.4126984126983
+    ]
+  }
+}

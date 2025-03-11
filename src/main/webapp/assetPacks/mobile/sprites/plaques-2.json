@@ -1,0 +1,21 @@
+{"frames": {
+
+"portrait_tutorialBackground":
+{
+	"frame": {"x":3,"y":3,"w":776,"h":918},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":776,"h":918},
+	"sourceSize": {"w":786,"h":918},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-2.png",
+	"format": "RGBA8888",
+	"size": {"w":782,"h":924},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b96fa57a31eaf63cc2c29a3fd76c6764:7ebba11a937c41b6b92610c72984e5fb:1a30e7b1bf950d59eed1501e06c5a5cd$"
+}
+}
